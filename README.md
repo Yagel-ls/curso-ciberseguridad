@@ -22,6 +22,28 @@ Esto permite saber como prevenir y mitigar estos ataques
 
 *NIST SP 800-115*
 [Enlace de la pagina](https://csrc.nist.gov/publications/detail/sp/800-115/final)
-Este es un documento creado por el (NIST) Instituto Nacional de Normas y Tecnologia, este documento proporciona pautas a las organizaciones sobre la planificacion y realizacion de pruebas de seguridad de la informacion. Reemplazo el documento estandar anterior
+Este es un documento creado por el (NIST) Instituto Nacional de Normas y Tecnologia, este documento proporciona pautas a las organizaciones sobre la planificacion y realizacion de pruebas de seguridad de la informacion. Reemplazo el documento estandar anterior:
+1. SP 800-42
+2. SP 800-115
+Se considera un Estandar en la industria para la orientacion de pruebas de penetracion y se mensiona en muchos otros estandares y documentos de la industria
+
+
+*OSSTMM*
+[Enlace de la pagina](https://www.isecom.org/)
+El manual de metodologia de pruebas de seguridad de codigo abierto (OSSTMM) es desarrollado por Pete Herzog, y se a distribuido por el instituto de Seguridad y Metodologias Abiertas (ISECOM), el OSSTMM es un documento que establece  pruebas de seguridad repetibles y uniformes Actualmente la version 4 esta en estado de borrador 
+*Secciones Clave*
+1. Metricas de Seguridad Operativa
+2. Analisis de Confianza
+3. Flujo de Trabajo
+4. Pruebas de Seguridad Humana
+5. Pruebas de Seguridad Fisica
+6. Pruebas de Seguridad Inalambrica
+7. Pruebas de Seguridad de Telecomunicaciones
+8. Pruebas de Seguridad de Redes de Datos
+9. Reglas de Cumplimiento
+10. Informes con el informe de Auditoria de Pruebas de Seguridad (STAR)
+
+
+
 
 
