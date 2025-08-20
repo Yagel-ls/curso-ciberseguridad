@@ -43,6 +43,29 @@ El manual de metodologia de pruebas de seguridad de codigo abierto (OSSTMM) es d
 9. Reglas de Cumplimiento
 10. Informes con el informe de Auditoria de Pruebas de Seguridad (STAR)
 
+*PTES*
+[Enlace de la pagina](http://www.pentest-standard.org/)
+proporciona informacion sobre tipos de ataques y metodos, Tiene informacion sobre las ultimas herramientas disponibles los metodos de prueba discretos y tiene 7 fases distintas:
+1. Interacciones previas al compromiso
+2. Recopilacion de Inteligencia
+3. Modelado de amenazas
+4. Analisis de vulnerabilidades
+5. Explotacion
+6. Post-explotacion
+7. Informes
+
+*ISSAF*
+El marco de evaluacion de la seguridad de los sistemas de informacion(ISSAF) es otra metodologia de prueba de penetracion similar a la demas en esta lista con algunas fases adicionales. La ISSAF abarca las siguientes fases:
+1. Recopilacion de Informacion
+2. Asignacion de red
+3. Identificacion de Vulnerabilidades
+4. Penetracion
+5. Obtener Acceso y escalamiento de privilegios
+6. Mas enumeracion
+7. Comprender a usuarios /  sitios remotos
+8. Mantener el acceso
+9. Cubriendo las pistas
+
 
 
 
